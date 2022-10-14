@@ -8,6 +8,7 @@ Repositorio destinado a documentar la viabilidad respecto a la aplicación de t�
 
 ## Demo y Posibles Aplicaciones ###
 * Detección automática sobre imágenes tomadas por drones
+* Procesamiento offline de la salud de un área, etc.
 ![Figura 1.: Detección automática sobre un área extensa](/Deteccion-Arboles-Muertos/preliminary_results/contextualized_demo.jpg)
 
 ### Referencias ###
